@@ -1,7 +1,7 @@
 h1{
   color: #00ff00;
 }
-p, li{
+li{
   color: #5DADE2;
   list-style-type: none;
   list-style-type: square;
@@ -9,4 +9,8 @@ p, li{
 
 .star-spangled-banner{
   color: #ff00ff;
+}
+
+#unordered-list{
+  color: #0000ff;
 }
