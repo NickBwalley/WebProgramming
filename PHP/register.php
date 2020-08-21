@@ -15,19 +15,19 @@ include 'connection.php';
          <form class="" action="register2.php" method="post">
            <h1><legend><span style = "color: blue">Registration-Form</span></legend></h1>
            <label for="lastName">Enter Username</label>
-           <input type="text" name="lname" value="">
+           <input type="text" name="username" value="">
            <br>
            <label for="email">Enter E-Mail</label>
            <input type="email" name="email" value="">
            <br>
-           <label for="password">Enter DOB</label>
-           <input type="date" name="date" value="">
+           <label for="DateOfBirth">Enter DOB</label>
+           <input type="date" name="dob" value="">
            <br>
-           <label for="password">Enter PhoneNumber</label>
+           <label for="phoneNumber">Enter PhoneNumber</label>
            <input type="number" name="phoneNumber" value="">
            <br>
-           <label for="password">Enter Occupation</label>
-           <input type="date" name="occupation" value="">
+           <label for="occupation">Enter Occupation</label>
+           <input type="text" name="occupation" value="">
            <br>
            <label for="password">Set Your Password</label>
            <input type="password" name="password" value="">
