@@ -1,7 +1,7 @@
 <?php
 
 $servername = "localhost";
-$username = "username";
+$username = "root";
 $password = "";
 $db = "WebProgramming";
 // Create connection
@@ -15,6 +15,5 @@ if (!$conn) {
 
 }
 
-echo "Connected successfully";
 
 ?>
